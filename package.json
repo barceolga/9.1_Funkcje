@@ -37,6 +37,7 @@
     "onchange": "^3.3.0"
   },
   "dependencies": {
+    "event-stream": "^3.3.4",
     "hoek": "^5.0.4",
     "mime": "^2.3.1",
     "npm-run-all": "^4.1.3",
